@@ -1,4 +1,5 @@
 # ImageShrinkAppElectron:
+<b>This is a Cross-Platform App can also run on Mac & linux and ofcourse on Windows .</b>
 
 This App is made in electron using simple html, javascript :
 Final look of the app:
